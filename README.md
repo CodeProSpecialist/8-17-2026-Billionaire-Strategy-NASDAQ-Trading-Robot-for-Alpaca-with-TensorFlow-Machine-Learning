@@ -1,7 +1,4 @@
-**Billionaire-Strategy-Buy-At-Lowest-Price-Advanced-Stock-Market-Robot-for-Alpaca**
 
-**2026 Edition – Advanced Stock Market Trading Robot**
-(Billionaire Buying Strategy)
 
 This is an upgraded, fully automated Alpaca trading robot that implements a disciplined "buy at the lowest reasonable price" strategy. The core idea remains the same: you cannot control the eventual sell price, so the robot focuses on high-quality technical entries while managing risk, exits, and portfolio exposure with modern margin-account rules.
 
