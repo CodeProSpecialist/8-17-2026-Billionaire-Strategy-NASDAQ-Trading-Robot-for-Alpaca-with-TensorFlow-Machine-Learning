@@ -119,7 +119,7 @@ _ml_tf_variant_ensured = False  # one-shot guard for the CPU/GPU package swap
 
 def _ml_detect_nvidia_cuda_gpu():
     """
-    Return True iff a working NVIDIA CUDA GPU is visible to this process.
+    Return True if a working NVIDIA CUDA GPU is visible to this process.
 
     Strategy: shell out to `nvidia-smi` and require exit code 0 with at least
     one GPU name in the output. This deliberately does NOT import tensorflow
