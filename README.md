@@ -469,7 +469,7 @@ standard-library modules (os, sys, time, json, csv, logging, threading, datetime
 concurrent.futures, collections, importlib.metadata, subprocess, shutil, etc.) are part
 of the Python distribution and are not repeated here.
 
-1.  alpaca-trade-api-python (imported as `alpaca_trade_api` and 'alpaca-py')
+1.  alpaca-trade-api-python (imported as `alpaca_trade_api` and 'alpaca')
     Copyright (c) Alpaca Securities LLC , alpaca-py, and the alpaca-trade-api-python contributors.
     License: Apache License 2.0.
     Purpose: Official Python client for the Alpaca brokerage REST and streaming APIs;
