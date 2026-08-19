@@ -1,5 +1,5 @@
 Billionaire Strategy — NASDAQ Stock Trading Robot for Alpaca
-Brand-New 2026 Automated Trading System — August 18, 2026
+Brand-New 2026 Automated Trading System — August 17, 2026 design. 
 
 This is a new, fully integrated Alpaca stock-trading robot built around a disciplined "buy at the lowest reasonable price" philosophy. The robot searches the S&P 500 for technically strong stocks that are temporarily discounted or pulling back, confirms the setup across multiple timeframes, ranks the best opportunities, sizes positions according to risk, and manages exits automatically.
 
@@ -469,8 +469,8 @@ standard-library modules (os, sys, time, json, csv, logging, threading, datetime
 concurrent.futures, collections, importlib.metadata, subprocess, shutil, etc.) are part
 of the Python distribution and are not repeated here.
 
-1.  alpaca-trade-api-python (imported as `alpaca_trade_api`)
-    Copyright (c) Alpaca Securities LLC and the alpaca-trade-api-python contributors.
+1.  alpaca-trade-api-python (imported as `alpaca_trade_api` and 'alpaca-py')
+    Copyright (c) Alpaca Securities LLC , alpaca-py, and the alpaca-trade-api-python contributors.
     License: Apache License 2.0.
     Purpose: Official Python client for the Alpaca brokerage REST and streaming APIs;
     used for account, position, order, and market-data access.
